@@ -1,7 +1,7 @@
 # Image-CLEF-Medical-Caption-2019
 In terms of the course **Applied Machine Learning** under the supervision of [Panos Louridas](https://github.com/louridas), this repository contains a large-scale multi-label classification task aiming to identify medical terms (concepts) in radiology images.
 
-## Analysis
+## Classification
 
 The assignment consists of **1 main Section**, which is explicitly stated in the [Assignment Description](https://github.com/nickosfra/Data-Analysis-on-Members-of-the-European-Parliament-Tweets/blob/master/twitter_meps.ipynb). Briefly, the project focuses on:
 - building a neural network that learns from the individual components/characteristics from which captions are composed
