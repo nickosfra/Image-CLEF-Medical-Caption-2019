@@ -7,7 +7,7 @@ The assignment consists of **1 main Section**, which is explicitly stated in the
 - building a neural network that learns from the individual components/characteristics from which captions are composed
 - classifying the images of a dataset - containing random radiology images - to a concept
 
-The analysis can be found [here](https://github.com/nickosfra/Image-CLEF-Medical-Caption-2019/blob/master/ImageCLEF_Medical_Caption_2019-Classification.ipynb).
+The classification task can be found [here](https://github.com/nickosfra/Image-CLEF-Medical-Caption-2019/blob/master/ImageCLEF_Medical_Caption_2019-Classification.ipynb).
 
 ## Dataset
 
